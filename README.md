@@ -1,10 +1,10 @@
 <img align="left" height="200" src="https://github.com/user-attachments/assets/987c18fd-4c25-4248-afc5-b18075ad26d8"/>
 
  💫 About Me:
-My name is Raag, Pawees Raag<br>I'm an Average Cybersecurity Enthusiast and Reverse Engineer<br>Who occasionally likes to dabble in the Art of Pentesting, Forensics, OSINT and Maldev<br>
+<br>My name is Raag, Pawees Raag<br>I'm an Average Cybersecurity Enthusiast and Reverse Engineer<br>Who occasionally likes to dabble in the Art of Pentesting, Forensics, OSINT and Maldev<br>
 
 
-## 🌐 Socials:
+ 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohom-chandra-chandra-8212b7286/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@schchandra3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s0h0m_ch_?t=8Ou16S3VmC6V1VbiQnayNA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paweesraag@gmail.com) 
 
 <!--![fall (1)](https://github.com/user-attachments/assets/987c18fd-4c25-4248-afc5-b18075ad26d8)-->
